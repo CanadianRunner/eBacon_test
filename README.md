@@ -10,7 +10,7 @@ _I developed a backend program that calculates payroll information for a fiction
 
 ### Built Application
 
-![BuiltApp](Media/Calc_Output.gif)
+![BuiltApp](Media/Calculator_Output.gif)
 
 ## Technology Used
 
@@ -35,33 +35,37 @@ _I developed a backend program that calculates payroll information for a fiction
 
 ## Expected Output
 
-Example JSON Output and Results to Test Against
+## Expected Output
+
+Example JSON Output and Results to Test Against:
+```json
 {
-  `"Mike": {
+  "Mike": {
     "employee": "Mike",
     "regular": "39.2856",
     "overtime": "0.0000",
     "doubletime": "0.0000",
     "wageTotal": "1056.4017",
     "benefitTotal": "36.8320"
-  },`
-  `"Steve": {
+  },
+  "Steve": {
     "employee": "Steve",
     "regular": "40.0000",
     "overtime": "8.0000",
     "doubletime": "1.1658",
     "wageTotal": "1653.5979",
     "benefitTotal": "49.9036"
-  },`
-  `"Alex": {
+  },
+  "Alex": {
     "employee": "Alex",
     "regular": "40.0000",
     "overtime": "3.6428",
     "doubletime": "0.0000",
     "wageTotal": "795.3979",
     "benefitTotal": "44.5985"
-  }`
+  }
 }
+
 
 ## Known Bugs
 
