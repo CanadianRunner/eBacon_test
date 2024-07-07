@@ -1,6 +1,6 @@
-# Seans Punch Logic Test Solution for eBacon
+# Punch Logic Solution for eBacon
 
-#### By _**Sean Keane**_
+## Developed by _**Sean Keane**_
 
 ####  07/07/2024
 
@@ -27,11 +27,6 @@ _I developed a backend program that calculates payroll information for a fiction
 `dotnet build`
 `dotnet run`
 4) The programs output should now be visibile in your terminal.
-
-`dotnet clean`
-`dotnet restore`
-`dotnet build`
-`dotnet run`
 
 ## Expected Output
 
