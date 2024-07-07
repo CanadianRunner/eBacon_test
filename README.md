@@ -22,7 +22,6 @@ _I developed a backend program that calculates payroll information for a fiction
 
 1) Clone this repository to your desktop.
 2) Navigate to the now installed directory and open in your editor of choice.
-3) Open the PayrollCalculator folder with `cd PayrollCalculator`
 3) Run the following commands in your terminal: 
 `dotnet build`
 `dotnet run`
