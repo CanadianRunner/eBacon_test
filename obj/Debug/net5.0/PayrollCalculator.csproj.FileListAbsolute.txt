@@ -1,8 +1,3 @@
-/Users/seankeane/Desktop/Sean/PayrollCalculator/PayrollCalculator/obj/Debug/net5.0/PayrollCalculator.csproj.AssemblyReference.cache
-/Users/seankeane/Desktop/Sean/PayrollCalculator/PayrollCalculator/obj/Debug/net5.0/PayrollCalculator.GeneratedMSBuildEditorConfig.editorconfig
-/Users/seankeane/Desktop/Sean/PayrollCalculator/PayrollCalculator/obj/Debug/net5.0/PayrollCalculator.AssemblyInfoInputs.cache
-/Users/seankeane/Desktop/Sean/PayrollCalculator/PayrollCalculator/obj/Debug/net5.0/PayrollCalculator.AssemblyInfo.cs
-/Users/seankeane/Desktop/Sean/PayrollCalculator/PayrollCalculator/obj/Debug/net5.0/PayrollCalculator.csproj.CoreCompileInputs.cache
 /Users/seankeane/Desktop/Sean/PayrollCalculator/PayrollCalculator/bin/Debug/net5.0/PayrollCalculator.deps.json
 /Users/seankeane/Desktop/Sean/PayrollCalculator/PayrollCalculator/bin/Debug/net5.0/PayrollCalculator.runtimeconfig.json
 /Users/seankeane/Desktop/Sean/PayrollCalculator/PayrollCalculator/bin/Debug/net5.0/PayrollCalculator.runtimeconfig.dev.json
@@ -10,6 +5,11 @@
 /Users/seankeane/Desktop/Sean/PayrollCalculator/PayrollCalculator/bin/Debug/net5.0/ref/PayrollCalculator.dll
 /Users/seankeane/Desktop/Sean/PayrollCalculator/PayrollCalculator/bin/Debug/net5.0/PayrollCalculator.pdb
 /Users/seankeane/Desktop/Sean/PayrollCalculator/PayrollCalculator/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/seankeane/Desktop/Sean/PayrollCalculator/PayrollCalculator/obj/Debug/net5.0/PayrollCalculator.csproj.AssemblyReference.cache
+/Users/seankeane/Desktop/Sean/PayrollCalculator/PayrollCalculator/obj/Debug/net5.0/PayrollCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seankeane/Desktop/Sean/PayrollCalculator/PayrollCalculator/obj/Debug/net5.0/PayrollCalculator.AssemblyInfoInputs.cache
+/Users/seankeane/Desktop/Sean/PayrollCalculator/PayrollCalculator/obj/Debug/net5.0/PayrollCalculator.AssemblyInfo.cs
+/Users/seankeane/Desktop/Sean/PayrollCalculator/PayrollCalculator/obj/Debug/net5.0/PayrollCalculator.csproj.CoreCompileInputs.cache
 /Users/seankeane/Desktop/Sean/PayrollCalculator/PayrollCalculator/obj/Debug/net5.0/PayrollCalculator.csproj.CopyComplete
 /Users/seankeane/Desktop/Sean/PayrollCalculator/PayrollCalculator/obj/Debug/net5.0/PayrollCalculator.dll
 /Users/seankeane/Desktop/Sean/PayrollCalculator/PayrollCalculator/obj/Debug/net5.0/ref/PayrollCalculator.dll

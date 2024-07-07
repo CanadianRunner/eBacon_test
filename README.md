@@ -2,29 +2,28 @@
 
 #### By _**Sean Keane**_
 
-####  06/24/2024
+####  07/07/2024
 
 ## Description
 
-_This is a backend program I developed that calculates general payroll information for a fictional construction company.  I've been provided data to process, along with the expected output.  This was a fun problem solving exercise that  _
+_I developed a backend program that calculates payroll information for a fictional construction company. It reads employee time punches and job metadata from JSON files, processes the data to compute regular, overtime, and double-time hours and generates detailed payroll reports. The project features robust error handling and scalability, demonstrating my proficiency in C#, data processing, and effective project management._
 
 ### Built Application
 
-![BuiltApp](images/built_app.png)
+![BuiltApp](Media/Calc_Output.gif)
 
 ## Technology Used
 
 * C#
-* Spring Framework (Spring Boot, Spring Data JPA, Spring Data REST)
-* MySQL
-* Lombok
+* .NET 5.0
+* Newtonsoft.Json
 
 ## Setup/Installation Requirements
 
 1) Clone this repository to your desktop.
 2) Navigate to the now installed directory and open in your editor of choice.
+3) Open the PayrollCalculator folder with `cd PayrollCalculator`
 3) Run the following commands in your terminal: 
-`dotnet restore`
 `dotnet build`
 `dotnet run`
 4) The programs output should now be visibile in your terminal.
