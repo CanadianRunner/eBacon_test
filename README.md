@@ -35,8 +35,6 @@ _I developed a backend program that calculates payroll information for a fiction
 
 ## Expected Output
 
-## Expected Output
-
 Example JSON Output and Results to Test Against:
 ```json
 {
@@ -65,7 +63,7 @@ Example JSON Output and Results to Test Against:
     "benefitTotal": "44.5985"
   }
 }
-
+```
 
 ## Known Bugs
 
