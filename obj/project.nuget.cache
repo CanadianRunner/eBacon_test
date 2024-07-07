@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O4MDHIHGEfwf5R8i1+F24QQP/9YWAxB47NU1k0x/KSlHy4cJ+ZLTDBTlz3Xih6+HwtyqS6FJmYd2wI5GlDUP8A==",
+  "success": true,
+  "projectFilePath": "/Users/seankeane/Desktop/Sean/PayrollCalculator/PayrollCalculator/PayrollCalculator.csproj",
+  "expectedPackageFiles": [
+    "/Users/seankeane/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
