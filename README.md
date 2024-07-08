@@ -21,11 +21,13 @@ _I developed a backend program that calculates payroll information for a fiction
 ## Setup/Installation Requirements
 
 1) Clone this repository to your desktop.
-2) Navigate to the now installed directory and open in your editor of choice.
+2) Navigate to the now installed directory and open it in your editor of choice.
 3) Run the following commands in your terminal: 
 `dotnet build`
 `dotnet run`
-4) The programs output should now be visibile in your terminal.
+4) The program's output should now be visible in your terminal.
+
+Note: If you're running this on a system that hasn't utilized .NET before, you may need to install this <a href="https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-5.0.17-macos-x64-installer?cid=getdotnetcore">runtime package</a>
 
 ## Expected Output
 
